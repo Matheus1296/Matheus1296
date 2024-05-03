@@ -15,7 +15,7 @@
   <img align="center" alt="Mathues-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </a>
   <a href="https://docs.nestjs.com/">
-    <img align="center" alt="Mathues-NestJS" height="30" width="40"               src="https://camo.githubusercontent.com/5f54c0817521724a2deae8dedf0c280a589fd0aa9bffd7f19fa6254bb52e996a/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667     ">
+    <img align="center" alt="Mathues-NestJS" height="30" width="40"               src="https://docs.nestjs.com/assets/logo-small-gradient.svg">
   </a>
   <a href="https://nodejs.org/en/docs/">
     <img align="center" alt="Mathues-NodeJS" height="30" width="30" src="https://nodejs.org/static/images/logo.svg">
